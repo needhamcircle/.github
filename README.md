@@ -1,2 +1,0 @@
-# needhamcircle.org
-
